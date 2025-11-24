@@ -18,7 +18,7 @@
 以下の手順に従ってインストールしてください。
 
 1. **本プロジェクトのダウンロード**:  
-   * GitHubの \[Releases\] から最新バージョンの圧縮ファイルをダウンロードしてください。  
+   * 最新バージョンのファイルをダウンロードしてください。  
 2. **パッチツールのダウンロード**:  
    * [HDiffPatch Releases](https://github.com/sisong/HDiffPatch/releases) にアクセスし、最新版をダウンロードしてください。  
    * 解凍して hpatchz.exe を見つけてください（hdiffz ではなく **hpatchz** ですのでご注意ください）。  
