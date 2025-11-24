@@ -18,7 +18,7 @@
 請依照以下步驟進行安裝：
 
 1. **下載本專案**  
-   * 點擊 GitHub 的 \[Releases\] 下載最新版本的壓縮包。  
+   * 下載本專案的最新版本的檔案。  
 2. **下載補丁工具**：  
    * 前往 [HDiffPatch Releases](https://github.com/sisong/HDiffPatch/releases) 下載最新版。  
    * 解壓縮並找到 hpatchz.exe。  
