@@ -18,7 +18,7 @@ This tool allows players to load .asar language packs, patches, or functional mo
 Please follow these steps to install:
 
 1. **Download this project**:  
-   * Download the latest release ZIP from \[GitHub Releases\].  
+   * Download the latest release file.  
 2. **Download Patch Tool**:  
    * Go to [HDiffPatch Releases](https://github.com/sisong/HDiffPatch/releases) and download the latest version.  
    * Unzip and find hpatchz.exe (Note: it is **hpatchz**, not hdiffz).  
