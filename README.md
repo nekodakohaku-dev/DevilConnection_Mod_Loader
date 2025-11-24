@@ -1,6 +1,6 @@
 # **Devil Connection Mod Loader**
 
-[繁體中文](https://www.google.com/search?q=README.zh-TW.md)  |  [日本語](https://www.google.com/search?q=README.ja.md)
+[繁體中文](https://github.com/nekodakohaku-dev/DevilConnection_Mod_Loader/blob/main/README.zh-TW.md)  |  [日本語](https://github.com/nekodakohaku-dev/DevilConnection_Mod_Loader/blob/main/README.ja.md)
 
 This is an unofficial general-purpose Mod Loader designed for the game **"Devil Connection" (でびるコネクショん)**.
 
