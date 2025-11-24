@@ -1,4 +1,4 @@
-# **でびるコネクショん汎用MODローダー**
+# **でびるコネクショん汎用 MOD ローダー**
 
 [繁體中文](https://github.com/nekodakohaku-dev/DevilConnection_Mod_Loader/blob/main/README.zh-TW.md)  |  [日本語](https://github.com/nekodakohaku-dev/DevilConnection_Mod_Loader/blob/main/README.ja.md)  |  [English](https://github.com/nekodakohaku-dev/DevilConnection_Mod_Loader/blob/main/README.md)
 
