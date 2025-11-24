@@ -1,8 +1,8 @@
-# **Devil Connection Mod Loader (汎用MODローダー)**
+# **でびるコネクショん汎用MODローダー**
 
-[English](http://docs.google.com/README.md)  |  [繁體中文](https://www.google.com/search?q=README.zh-TW.md)
+[繁體中文](https://github.com/nekodakohaku-dev/DevilConnection_Mod_Loader/blob/main/README.zh-TW.md)  |  [日本語](https://github.com/nekodakohaku-dev/DevilConnection_Mod_Loader/blob/main/README.ja.md)  |  [English](https://github.com/nekodakohaku-dev/DevilConnection_Mod_Loader/blob/main/README.md)
 
-これは、ゲーム\*\*『でびるコネクショん』(Devil Connection)\*\* 専用に設計された非公式の汎用MODローダーです。
+これは、ゲーム\*\*『でびるコネクショん』\*\* 専用に設計された非公式の汎用MODローダーです。
 
 本ツールを使用することで、**オリジナルの巨大なファイルを解凍・置換することなく**、外部マウント方式で .asar 形式の言語パック、修正パッチ、機能モジュールを読み込むことができます。このアーキテクチャにより、パッチサイズを大幅に削減し、**ゲーム作者およびMOD制作者の著作権をより適切に保護**します。
 
@@ -76,9 +76,8 @@ plugins フォルダに以下のファイルがあると仮定します：
 * **2025/11/24 (v1.0.0)**  
   * v1.0.0 リリース  
   * 対応ゲームバージョン: Patch Update (2025/11/22)  
-  * HDiffPatch 極限圧縮パッチのサポート。
 
-## **⚖️ 免責事項 (Disclaimer)**
+## **⚖️ 免責事項**
 
 本ツールは第三者によって作成された非公式ソフトウェアであり、オリジナルのゲーム開発者とは一切関係ありません。  
 本ツールの使用によって生じたいかなる損害（セーブデータの破損、ゲームのクラッシュなど）についても、作者は責任を負いません。自己責任でご使用ください。  
