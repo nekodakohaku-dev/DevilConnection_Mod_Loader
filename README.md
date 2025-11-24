@@ -43,7 +43,7 @@ Please follow these steps to install:
 
 ### **🟢 Basic Usage: Installing Mods/Translations**
 
-1. Obtain the mod file you want to use (usually in .asar format, e.g., zh-tw.asar).  
+1. Obtain the mod file you want to use (usually in .asar format, e.g., Translation_Pack.asar).  
 2. Place the file into the **plugins** folder in the game root directory.  
 3. Start the game directly; the mod will take effect automatically.
 
