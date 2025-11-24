@@ -1,5 +1,7 @@
 # **でびるコネクショん 通用模組載入器**
 
+[繁體中文](https://github.com/nekodakohaku-dev/DevilConnection_Mod_Loader/blob/main/README.zh-TW.md)  |  [日本語](https://github.com/nekodakohaku-dev/DevilConnection_Mod_Loader/blob/main/README.ja.md)  |  [English](https://github.com/nekodakohaku-dev/DevilConnection_Mod_Loader/blob/main/README.md)
+
 這是一個專為遊戲 **《でびるコネクショん》** 設計的非官方通用模組載入器。
 
 本工具允許玩家在**不解碼、不替換原始巨大檔案**的情況下，透過外部掛載的方式載入 .asar 格式的語言包、修正檔或功能模組。此架構能大幅減少補丁體積，並**更好地保護遊戲作者以及模組創作者的著作權**。
