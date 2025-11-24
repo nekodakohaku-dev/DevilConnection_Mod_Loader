@@ -1,6 +1,6 @@
 # **Devil Connection Mod Loader**
 
-[繁體中文](https://github.com/nekodakohaku-dev/DevilConnection_Mod_Loader/blob/main/README.zh-TW.md)  |  [日本語](https://github.com/nekodakohaku-dev/DevilConnection_Mod_Loader/blob/main/README.ja.md)
+[繁體中文](https://github.com/nekodakohaku-dev/DevilConnection_Mod_Loader/blob/main/README.zh-TW.md)  |  [日本語](https://github.com/nekodakohaku-dev/DevilConnection_Mod_Loader/blob/main/README.ja.md)  |  [English](https://github.com/nekodakohaku-dev/DevilConnection_Mod_Loader/blob/main/README.md)
 
 This is an unofficial general-purpose Mod Loader designed for the game **"Devil Connection" (でびるコネクショん)**.
 
@@ -76,7 +76,6 @@ This allows you to easily create "fix patches" or "compatibility packs" without 
 * **2025/11/24 (v1.0.0)**  
   * Initial release v1.0.0.  
   * Compatible with game version: Patch Update (2025/11/22).  
-  * Support for HDiffPatch extreme compression.
 
 ## **⚖️ Disclaimer**
 
