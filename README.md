@@ -73,7 +73,7 @@ This allows you to easily create "fix patches" or "compatibility packs" without 
 
 ## **📅 Changelog**
 
-* **Compatible with game version: Patch Update (2026/04/02).  
+* **Compatible with game version: Patch Update (2026/04/01).  
 
 ## **⚖️ Disclaimer**
 
