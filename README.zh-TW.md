@@ -73,9 +73,7 @@ Loader 會先讀取 99\_UI\_Fix.asar，然後再讀取 01\_Base\_Translation.asa
 
 ## **📅 更新日誌**
 
-* **2025/11/24 (v1.0.0)**  
-  * 發布 v1.0.0  
-  * 對應遊戲版本：Patch Update (2025/11/22)
+* **對應遊戲版本：Patch Update (2026/04/01)
 
 ## **⚖️ 免責聲明 (Disclaimer)**
 
